@@ -1,0 +1,18 @@
+{
+    "name": "saidul1996/inspire",
+    "description": "The package make inspirational quotes",
+    "autoload": {
+        "psr-4": {
+            "Saidul1996\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saidul Islam",
+            "email": "saidulislam197120@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
